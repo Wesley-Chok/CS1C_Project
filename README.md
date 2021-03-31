@@ -4,20 +4,15 @@ This is the project for CS1C Class (iCyberSecurity)
 Customers decide the security plan that satisfies their needs to detect, respond, and contain advanced cyber security attacks. To achieve this goal, a very readable and easy to use interfance must be implemented. 
 
 ### In-Depth Description:
-- In order to store the baseball stadium information (Souvenir information, Major League Baseball Information, distance between stadium to stadium) a connection to DB Browser's (SQLite) database must be developed
-- The selected campus information derived from DB Browser's (SQLite) database will be stored in Qt's vector (QVector<QString>) datastructure
-- The campus sorting based on user selection will be stored in in Qt's queue (QQueue<QString>) datastructure and will be utilized in the recursion function
-- The selected souvenir information derived from DB Browser's (SQLite) database will be stored in Qt's stack (QStack<Souvenir>) datastructure
+- Through Qt's database connection function (QSqlDatabase::addDatabase), a connection with DB Browser's (SQLite) database must be made in order to retrieve the data
+- With Qt's UI a home page, buy page, receipt page, contact page and admin page widget are implemented
 - Qt's push button's are used in order for the admin or student to navigate through the program
-- Algorithms such as minimum spanning tree, breadth-first search, depth first search and Dijktra's will be used to find the most efficient route between the baseball stadiums
+- SQL functions such as create table, insert into, delete from and update are implemented in order to develop a visible table and fluctuate the contents in the table
 
 
 ### Pictures: 
-![Imgur image](https://imgur.com/I322WSZ.jpg)
-![Imgur image](https://imgur.com/icoWcnQ.jpg)
-![Imgur image](https://imgur.com/ylyYUR4.jpg)
-![Imgur image](https://imgur.com/xWfkzIO.jpg)
-![Imgur image](https://imgur.com/RQAe4DK.jpg)
+![Imgur image](https://imgur.com/CVwCBIq.jpg)
+![Imgur image](https://imgur.com/oh6E9ea.jpg)
 
 ### Deployment
 Built and ran in Qt
