@@ -14,7 +14,7 @@ Customers decide the security plan that satisfies their needs to detect, respond
 
 ### Pictures: 
 ![Imgur image](https://imgur.com/I322WSZ.jpg)
-![Imgur image](https://imgur.com/icoWcnQ)
+![Imgur image](https://imgur.com/icoWcnQ.jpg)
 ![Imgur image](https://imgur.com/ylyYUR4.jpg)
 ![Imgur image](https://imgur.com/xWfkzIO.jpg)
 ![Imgur image](https://imgur.com/RQAe4DK.jpg)
