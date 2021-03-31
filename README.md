@@ -9,11 +9,6 @@ Customers decide the security plan that satisfies their needs to detect, respond
 - Qt's push button's are used in order for the admin or student to navigate through the program
 - SQL functions such as create table, insert into, delete from and update are implemented in order to develop a visible table and fluctuate the contents in the table
 
-
-### Pictures: 
-![Imgur image](https://imgur.com/CVwCBIq.jpg)
-![Imgur image](https://imgur.com/oh6E9ea.jpg)
-
 ### Deployment
 Built and ran in Qt
 
